@@ -7,10 +7,13 @@
             <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/boardgame/Board.java</file>
             <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/chess/ChessMatch.java</file>
             <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/boardgame/Position.java</file>
+            <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/chess/pieces/King.java</file>
             <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/application/UI.java</file>
+            <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/chess/pieces/Rook.java</file>
             <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/chess/ChessException.java</file>
             <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/chess/ChessPiece.java</file>
             <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/application/Program.java</file>
+            <file>file:/home/paulo/NetBeansProjects/Sistema-Xadrez/src/chess/ChessPosition.java</file>
         </group>
     </open-files>
 </project-private>
